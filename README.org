@@ -6,7 +6,7 @@
 | Aaron Culich          | [[https://github.com/aculich/.emacs.d][.emacs.d]]             | classic               | ✔        | use-package          |           25+ | ✔        | OSX, latex, scala                                           |
 | Alex Kost             | [[https://github.com/alezost/emacs-config][emacs-config]]         | non-standard          |          | quelpa               |               | ✔        | multiple systems                                            |
 | Bailey Ling           | [[https://github.com/bling/dotemacs][dotemacs]]             | evil, classic         |          | package              |               | ✔        | KISS                                                        |
-| Bob Mottram           | [[https://github.com/bashrc/emacs][.emacs.d]]             |                       |          |                      |           24+ | ✔        | GNU Social, rss reading, emms, magit, weather, Tor support  |
+| Bob Mottram           | [[https://code.freedombone.net/bashrc/emacs][.emacs.d]]             |                       |          |                      |           24+ | ✔        | GNU Social, rss reading, emms, magit, weather, Tor support  |
 | Bodil Stokke          | [[https://github.com/bodil/ohai-emacs][ohai-emacs]]           | classic               |          | use-package          |         24.4+ | ✔        | fashionable look, improved navigation, editing, code style  |
 | Bradley Wright        | [[https://github.com/bradwright/emacs.d][emacs.d]]              | classic               | ✔        | package              |               | ✔        | shell & desktop                                             |
 | Chen Bin              | [[https://github.com/redguardtoo/emacs.d][emacs.d]]              | evil                  |          | package              |       24.3.1+ | ✔        | robust, windows                                             |
@@ -15,13 +15,15 @@
 | Christian Johansen    | [[https://github.com/cjohansen/.emacs.d][.emacs.d]]             | classic               |          | package              |         24.4+ | ✔        | mac, inspirational                                          |
 | Christopher Wellons   | [[https://github.com/skeeto/.emacs.d][.emacs.d]]             | classic               |          | use-package          |         24.4+ | ✔        | feed, youtube, jekyll                                       |
 | Chunyang Xu           | [[https://github.com/xuchunyang/emacs.d][emacs.d]]              | classic               |          | use-package          |           24+ | ✔        | eshell, helm                                                |
-| Damien Cassou         | [[https://github.com/DamienCassou/emacs.d][emacs.d]]              | classic               |          | nix + use-package    |           25+ | ✔        | nix, multi mail accounts, carddav+caldav, password store    |
+| Damien Cassou         | [[https://github.com/DamienCassou/emacs.d][emacs.d]]              | classic               |          | borg + use-package   |           25+ | ✔        | borg, multi mail accounts, carddav+caldav, password store   |
+| Daniel Kraus          | [[https://github.com/dakra/dmacs][dmacs]]                | classic               | ✔        | borg + use-package   |           25+ | ✔        | borg, exwm, remote setup, email                             |
 | Dennis Ogbe           | [[https://ogbe.net/emacsconfig.html][settings.org]]         | classic               | ✔        | package              |               |          | org blog, matlab, latex, email                              |
+| Dmytro Lispyvnyi      | [[https://github.com/a13/emacs.d][emacs.d]]              | classic               | ✔        | use-package          |         24.4+ | ✔        | Russian and Ukrainian localizations, web-browsing, mu4e     |
 | Donald Curtis         | [[https://github.com/milkypostman/dotemacs][dotemacs]]             | classic, evil         |          | package              |               | ✔        | lots of utils                                               |
 | Feng Zhou             | [[https://github.com/zweifisch/dotfiles/tree/master/emacs][emacs]]                | evil                  |          | use-package          |               | ✔        | mu4e, org project, urban dictionary, chinese bing dict      |
 | Greg Lucas            | [[https://github.com/glucas/emacs.d][emacs.d]]              | classic               |          | use-package          |           25+ | ✔        | buffer management                                           |
 | Harry R. Schwartz     | [[https://github.com/hrs/dotfiles/tree/master/emacs/.emacs.d][emacs.d]]              |                       | ✔        |                      |               |          | [[https://youtu.be/SzA2YODtgK4][Video: Getting started with org-mode]]                        |
-| Henrik Lissner        | [[https://github.com/hlissner/.emacs.d][.emacs.d]]             | evil                  |          | use-package          |               | ✔        | programming languages, vim-like environment                 |
+| Henrik Lissner        | [[https://github.com/hlissner/doom-emacs][doom-emacs]]           | evil                  |          | use-package          |               | ✔        | programming languages, vim-like distribution                |
 | Howard Abrams         | [[https://github.com/howardabrams/dot-files][dot-files]]            | classic               | ✔        | use-package          |               | ✔        | inspirational, programming languages, file management       |
 | Ista Zahn             | [[https://github.com/izahn/dotemacs][dotemacs]]             | classic, non-standard | ✔        | package              |               | ✔        | newbie friendly, ide like, for scientists                   |
 | Ivan Malison          | [[http://ivanmalison.github.io/dotfiles/][emacs.d]]              | classic               | ✔        | use-package          |            25 | ✔        | term-mode (projectile), org (export), language support      |
@@ -56,6 +58,7 @@
 | Ryan C. Thompson      | [[https://github.com/DarwinAwardWinner/dotemacs][dotemacs]]             |                       | ✔        | use-package          |               | ✔        |                                                             |
 | Robert Dallas Gray    | [[https://github.com/rdallasgray/.emacs.d][.emacs.d]]             |                       |          |                      |               | ✔        |                                                             |
 | Sacha Chua            | [[https://github.com/sachac/.emacs.d][.emacs.d]]             |                       | ✔        |                      |               | ✔        |                                                             |
+| Sachin Patil          | [[https://gitlab.com/psachin/emacs.d][emacs.d]]              | classic               | ✔        | use-package          |           25+ | ✔        | ERC, LaTeX, programming, reveal.js                          |
 | Sam Halliday          | [[https://github.com/fommil/dotfiles/tree/master/.emacs.d][.emacs.d]]             |                       |          |                      |               |          |                                                             |
 | Samuel Tonini         | [[https://github.com/tonini/emacs.d][emacs.d]]              |                       |          |                      |           24+ | ✔        |                                                             |
 | Sebastian Wiesner     | [[https://github.com/lunaryorn/.emacs.d][.emacs.d]]             |                       |          |                      |           25+ | ✔        |                                                             |
@@ -74,6 +77,21 @@
 | Yuta Yamada           | [[https://github.com/yuutayamada/emacs.d][emacs.d]]              |                       |          |                      |               | ✔        |                                                             |
 |-----------------------+----------------------+-----------------------+----------+----------------------+---------------+----------+-------------------------------------------------------------|
 
-** Contribute
-   Feel free to open a pull request.
-   Please don't add your personal config file. I won't accept it unless it is vetted by other community members.
+** FAQ
+
+**** Who are these people?
+     Most of the people on this list are either heavy contributors to [[https://melpa.org/#/][MELPA]] or people who get involved in the community beyond having only an ~.emacs.d~ dir. If you spend time checking out MELPA packages, [[https://www.reddit.com/r/emacs/][/r/emacs]] or [[https://emacs.stackexchange.com/questions][Emacs StackExchage]] you would probably know most of them.
+
+**** How do you get yourself on this list?
+     First you should ask yourself why would you want to get on this list? ([[https://www.youtube.com/watch?v%3DPzRg--jhO8g][I'm kiddin'...]])
+     Most of the times a pull request would suffice. Keep in mind though that I won't accept self submission if the /config/ is not vetted by the other people or is not original enough.
+     One can also contribute by adding suggestions to [[https://github.com/caisah/emacs.dz/issues/34][this thread]].
+
+**** Can you ask your friend to list you?
+     Why not? Though if it's a real friend he would probably also state what makes your /config/ special. :wink:
+
+**** How did this list come about in the first place?
+     This list was inspired by [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]] and started as a simple list of a few popular /configs/ but lately is getting a lot of attention.P
+
+
+
